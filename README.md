@@ -44,7 +44,6 @@ protected List<ReactPackage> getPackages() {
 }
 
 ```
-```
 
 ### Screencasts
 ![ios](https://github.com/remobile/react-native-toast/blob/master/screencasts/ios.gif)
